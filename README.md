@@ -5,5 +5,5 @@ Diabetes is a type of chronic disease which is more common among the people of a
 
 Task:
 1. Prepare the data-set
-2. Build a model which
+2. Build a model which can give high accuracy of predicting the disease
 
